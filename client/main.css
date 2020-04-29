@@ -1,0 +1,12 @@
+body{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  height: 100vh;
+  background-image: url("/images/back_image.jpg");
+  /*background-color: seashell;*/
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
